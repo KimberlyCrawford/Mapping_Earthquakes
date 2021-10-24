@@ -1,16 +1,10 @@
 # Mapping_Earthquakes
 
 ## Overview
-Creating a map with JavaScript???
+Mapping Earthquakes with JavaScript and APIs
 
 ### Purpose
-The purpose of this project was to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days. JavaScript and the D3.js library was used to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data. The Leaflet library was used to plot the data on a Mapbox map through an API request and create interactivity for the earthquake data.
-
-## Data
-
-The data for this project was taken from a URL for GeoJSON earthquake data from the USGS website. Geographical coordinates and the magnitudes of earthquakes were retrieved for the last seven days.
-
-![filename.png](https://github.com/KimberlyCrawford/Mapping_Earthquakes/blob/main/static/images/filename.png)
+The purpose of this project was to use the Leaflet.js Application Programming Interface (API) to populate a geographical map with GeoJSON earthquake data from a URL. Each earthquake will be visually represented by a circle and color, where a higher magnitude will have a larger diameter and will be darker in color. In addition, each earthquake will have a popup marker that, when clicked, will show the magnitude of the earthquake and the location of the earthquake.
 
 ## Tasks Involved in the Project
 
@@ -21,7 +15,7 @@ NOTE: Mapbox provides custom maps for websites and applications such as Strava, 
 
 ## Challenge
 
-The purpose of this challenge was to expand on the project completed during the module and use JavaScript and ??? to see the earthquake data in relation to the tectonic plates’ location on the earth as well as all the earthquakes with a magnitude greater than 4.5 on the map.
+The purpose of this challenge was to expand on the project completed during the module to see the earthquake data in relation to the tectonic plates’ location on the earth as well as all the earthquakes with a magnitude greater than 4.5 on the map.
 
 #### Deliverable 1: Add Tectonic Plate Data
 
