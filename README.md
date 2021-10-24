@@ -8,9 +8,16 @@ The purpose of this project was to visually show the differences between the mag
 
 ## Data
 
-The data for this project was ??? as shown in the example below:
+The data for this project was taken from a URL for GeoJSON earthquake data from the USGS website. Geographical coordinates and the magnitudes of earthquakes were retrieved for the last seven days.
 
 ![filename.png](https://github.com/KimberlyCrawford/Mapping_Earthquakes/blob/main/static/images/filename.png)
+
+## Tasks Involved in the Project
+
+- JavaScript and the D3.js library were used to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data. 
+- Leaflet library was used to plot the data on a Mapbox map through an API request and created interactivity for the earthquake data.
+
+NOTE: Mapbox provides custom maps for websites and applications such as Strava, Facebook, the Financial Times, The Weather Channel, Snapchat, and Instacart. Since October 2019, Mapbox has been generating up to 14 billion individual sensor readings daily across 100,000 map updates on connected devices.
 
 ## Challenge
 
