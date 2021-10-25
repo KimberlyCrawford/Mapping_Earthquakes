@@ -17,7 +17,7 @@ NOTE: Mapbox provides custom maps for websites and applications such as Strava, 
 
 The purpose of this challenge was to expand on the project completed during the module to see the earthquake data in relation to the tectonic plates’ location on the earth as well as all the earthquakes with a magnitude greater than 4.5 on the map.
 
-#### Deliverable 1: Add Tectonic Plate Data
+### Deliverable 1: Add Tectonic Plate Data
 
 Using your knowledge of JavaScript, Leaflet.js, and geoJSON data, tectonic plate data was added using d3.json(), the data was added using the geoJSON() layer, the tectonic plate LineString data was set to stand out on the map, and the tectonic plate data was added to the overlay object with the earthquake data. Below is the first map with Streets view and showing Earthquakes only:
 
