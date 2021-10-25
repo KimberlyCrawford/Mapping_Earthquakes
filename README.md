@@ -19,18 +19,18 @@ The purpose of this challenge was to expand on the project completed during the 
 
 #### Deliverable 1: Add Tectonic Plate Data
 
-Using your knowledge of JavaScript, Leaflet.js, and geoJSON data, tectonic plate data was added using d3.json(), the data was added using the geoJSON() layer, the tectonic plate LineString data was set to stand out on the map, and the tectonic plate data was added to the overlay object with the earthquake data.
+Using your knowledge of JavaScript, Leaflet.js, and geoJSON data, tectonic plate data was added using d3.json(), the data was added using the geoJSON() layer, the tectonic plate LineString data was set to stand out on the map, and the tectonic plate data was added to the overlay object with the earthquake data. Below is the first map with Streets view and showing Earthquakes only:
 
-![filename.png](https://github.com/KimberlyCrawford/Mapping_Earthquakes/blob/main/static/images/filename.png)
+![Streets_earthquakes.png](https://github.com/KimberlyCrawford/Mapping_Earthquakes/blob/main/Streets_earthquakes.png)
 
 ### Deliverable 2: Add Major Earthquake Data
 
-Using your knowledge of JavaScript, Leaflet.js, and geoJSON data, major earthquake data was added to the map using d3.json() including color, the radius of the circle based on the magnitude of earthquake, and a popup marker for each earthquake that displays the magnitude and location of the earthquake using the GeoJSON layer, geoJSON().
+Using your knowledge of JavaScript, Leaflet.js, and geoJSON data, major earthquake data was added to the map using d3.json() including color, the radius of the circle based on the magnitude of earthquake, and a popup marker for each earthquake that displays the magnitude and location of the earthquake using the GeoJSON layer, geoJSON(). Below is the second map with Satellite view and showing Earthquakes and Tectonic Plates only:
 
-![filename.png](https://github.com/KimberlyCrawford/Mapping_Earthquakes/blob/main/static/images/filename.png)
+![Satellite_earthquakes_tectonicplates.png](https://github.com/KimberlyCrawford/Mapping_Earthquakes/blob/main/Satellite_earthquakes_tectonicplates.png)
 
 ### Deliverable 3: Add an Additional Map
 
-Using your knowledge of JavaScript and Leaflet.js, a third map style was added to the earthquake map.
+Using your knowledge of JavaScript and Leaflet.js, a third map style was added to the earthquake map. Below is the third map with Dark view and showing Earthquakes, Tectonic Plates and Major Earthquakes:
 
-![filename.png](https://github.com/KimberlyCrawford/Mapping_Earthquakes/blob/main/static/images/filename.png)
+![Dark_all.png](https://github.com/KimberlyCrawford/Mapping_Earthquakes/blob/main/Dark_all.png)
