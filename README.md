@@ -34,3 +34,5 @@ Using your knowledge of JavaScript, Leaflet.js, and geoJSON data, major earthqua
 Using your knowledge of JavaScript and Leaflet.js, a third map style was added to the earthquake map. Below is the third map with Dark view and showing Earthquakes, Tectonic Plates and Major Earthquakes:
 
 ![Dark_all.png](https://github.com/KimberlyCrawford/Mapping_Earthquakes/blob/main/Dark_all.png)
+
+#### Module 13, Data Analysis & Visualization Certificate Program, UT Austin McCombs School of Business, 2021.
